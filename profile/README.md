@@ -1,7 +1,6 @@
 # 介绍 Intro
 + 我们是阿里巴巴通义实验室XR实验室的3D AIGC团队，专注于从文本、视频高效生成可用的3D资产。
 + We are the 3D AIGC team of XR Lab, Institute for Intelligent Computing, Alibaba Group, focusing on efficiently generating usable 3D assets from text or video.
-+ 
 
 # 开源项目 Open Source
 + https://aigc3d.github.io/richdreamer
