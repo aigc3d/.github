@@ -4,7 +4,6 @@
 
 # 开源项目 Open Source
 + https://aigc3d.github.io/richdreamer
-+ https://aigc3d.github.io/motionshop
 
 # 应用 Demo
 + 3D物生成：https://modelscope.cn/studios/Damo_XR_Lab/3D_AIGC/summary
