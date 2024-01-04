@@ -1,8 +1,9 @@
-# Intro
+# Introduction
 + We are the 3D AIGC team of XR Lab, Institute for Intelligent Computing, Alibaba Group, focusing on efficiently generating usable 3D assets from text or video.
 
-# Open Source
+# Open Project
 + https://aigc3d.github.io/richdreamer
++ https://aigc3d.github.io/gobjaverse
 
 # Demo
 + 3D Object Generation：https://modelscope.cn/studios/Damo_XR_Lab/3D_AIGC/summary
