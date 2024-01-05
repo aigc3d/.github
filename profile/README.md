@@ -4,7 +4,8 @@
 # Open Project
 + https://aigc3d.github.io/richdreamer
 + https://aigc3d.github.io/gobjaverse
-
++ https://aigc3d.github.io/motionshop
++ 
 # Live Demo
 + 3D Object Generation：https://modelscope.cn/studios/Damo_XR_Lab/3D_AIGC/summary
 
