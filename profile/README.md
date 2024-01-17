@@ -8,7 +8,7 @@
 
 # Live Demo
 + 3D Object Generation：https://modelscope.cn/studios/Damo_XR_Lab/3D_AIGC/summary
-
++ Motionshop: https://modelscope.cn/studios/Damo_XR_Lab/motionshop/summary
 # More
 + Intern positions are open（Beijing、Hangzhou），research area：3D Avatar、3D Object Generation！
 + Contact：list.dzl@alibaba-inc.com
