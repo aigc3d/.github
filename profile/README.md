@@ -12,4 +12,6 @@
 
 # Talent
 + Intern positions are open（Beijing、Hangzhou），research area：3D Avatar、3D Object Generation！
+  + https://careers-tongyi.alibaba.com/campus-position/2030101
+  + https://careers-tongyi.alibaba.com/campus-position/2030102
 + Contact：list.dzl@alibaba-inc.com
