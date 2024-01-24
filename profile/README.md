@@ -7,7 +7,7 @@
 + Video Character Replacement：https://aigc3d.github.io/motionshop
 
 # Live Demo
-+ 3D Object Generation：https://modelscope.cn/studios/Damo_XR_Lab/3D_AIGC/summary
++ Richdreamer：https://modelscope.cn/studios/Damo_XR_Lab/3D_AIGC/summary
 + Motionshop：https://modelscope.cn/studios/Damo_XR_Lab/motionshop/summary
 
 # Talent
