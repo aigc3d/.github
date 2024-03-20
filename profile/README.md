@@ -1,10 +1,12 @@
 # Introduction
 + We are the 3D AIGC team of XR Lab, Institute for Intelligent Computing, Alibaba Group, focusing on efficiently generating usable 3D assets from text or video.
 
-# Open Project
+# Open Source
 + Multivew Generation：https://aigc3d.github.io/VideoMV/
 + 3D Point Completion（CVPR 2024）：https://github.com/yushuang-wu/IPoD
 + 3D Object Generation（CVPR 2024）：https://aigc3d.github.io/richdreamer
+
+# Open Project
 + Large Scale Neural Rendering: https://aigc3d.github.io/landshop
 + Video Character Replacement：https://aigc3d.github.io/motionshop
 
