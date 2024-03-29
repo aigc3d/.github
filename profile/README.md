@@ -1,5 +1,5 @@
 # Introduction
-+ We are the 3D AIGC team of XR Lab, Institute for Intelligent Computing, Alibaba Group, focusing on efficiently generating usable 3D assets from text or video.
++ We are the 3D AIGC team of XR Lab, Institute for Intelligent Computing（[通义实验室](https://tongyi.aliyun.com/)）, Alibaba Group, focusing on efficiently generating usable 3D assets from text or video.
 
 # Open Source
 + Multivew Generation：https://aigc3d.github.io/VideoMV
