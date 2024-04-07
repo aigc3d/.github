@@ -18,6 +18,5 @@
 
 # Talent
 + **Reserch intern** positions are open（Beijing、Hangzhou），research area：3D Avatar、3D Object Generation！
-  + https://zhuanlan.zhihu.com/p/687317673
   + https://zhuanlan.zhihu.com/p/685816106
 + Contact：list.dzl@alibaba-inc.com
