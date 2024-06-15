@@ -3,12 +3,11 @@
 
 # Open Source
 + Video Generation:
-+ 
+  + Coming soon. 
 + 3D Motion Generation:
-  + Coming soom. 
+  + Coming soon. 
 + 3D Scene Generation:
   + https://aigc3d.github.io/freditor
-  + 
 + 3D Object Generation：
   + https://aigc3d.github.io/VideoMV
   + https://yushuang-wu.github.io/IPoD/（CVPR 2024 Hightlight）
