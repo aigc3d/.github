@@ -10,9 +10,9 @@
   + https://aigc3d.github.io/freditor
 + 3D Object Generation：
   + https://aigc3d.github.io/VideoMV
-  + https://yushuang-wu.github.io/IPoD/（CVPR 2024 Hightlight）
-  + https://aigc3d.github.io/richdreamer（CVPR 2024 Hightlight）
-  + https://aigc3d.github.io/gpld3d（CVPR 2024 Oral）
+  + https://yushuang-wu.github.io/IPoD/ （CVPR 2024 Hightlight）
+  + https://aigc3d.github.io/richdreamer （CVPR 2024 Hightlight）
+  + https://aigc3d.github.io/gpld3d （CVPR 2024 Oral）
 
 # Open Project
 + Large Scale Neural Rendering: https://aigc3d.github.io/landshop
