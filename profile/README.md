@@ -1,17 +1,24 @@
 # Introduction
-+ We are the 3D AIGC team of XR Lab, Institute for Intelligent Computing（[通义实验室](https://tongyi.aliyun.com/)）, Alibaba Group, focusing on efficiently generating usable 3D assets from text or video.
++ We are the 3D AIGC team of Applied Vision Lab, Institute for Intelligent Computing（[通义实验室](https://tongyi.aliyun.com/)）, Alibaba Group, focusing on efficiently generating usable 3D assets from text or video.
 
 # Open Source
-+ Multivew Generation：https://aigc3d.github.io/VideoMV
-+ 3D Scene Appearance: https://aigc3d.github.io/freditor
-+ 3D Point Completion（CVPR 2024 Highlight）：https://yushuang-wu.github.io/IPoD/
-+ 3D Object Generation（CVPR 2024 Hightlight）：https://aigc3d.github.io/richdreamer
-  + Demo：https://modelscope.cn/studios/Damo_XR_Lab/3D_AIGC/summary
++ 3D Motion Generation:
+  + Coming soom. 
++ 3D Scene Generation:
+  + https://aigc3d.github.io/freditor
+  + 
++ 3D Object Generation：
+  + https://aigc3d.github.io/VideoMV
+  + https://yushuang-wu.github.io/IPoD/（CVPR 2024 Hightlight）
+  + https://aigc3d.github.io/richdreamer（CVPR 2024 Hightlight）
+  + https://aigc3d.github.io/gpld3d（CVPR 2024 Oral）
 
 # Open Project
 + Large Scale Neural Rendering: https://aigc3d.github.io/landshop
 + Video Character Replacement：https://aigc3d.github.io/motionshop
-  + Demo：https://modelscope.cn/studios/Damo_XR_Lab/motionshop/summary
+  + Demo: https://modelscope.cn/studios/Damo_XR_Lab/motionshop/summary
++ 3D Object Generation：
+  + Demo: https://modelscope.cn/studios/Damo_XR_Lab/3D_AIGC/summary
 
 # Data Set
 + 3D Object Rendering Dataset：https://aigc3d.github.io/gobjaverse
