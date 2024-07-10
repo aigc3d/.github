@@ -12,11 +12,13 @@
   + https://aigc3d.github.io/VideoMV
   + https://yushuang-wu.github.io/IPoD/ （CVPR 2024 Hightlight）
   + https://aigc3d.github.io/richdreamer （CVPR 2024 Hightlight）
-  + [https://aigc3d.github.io/gpld3d](https://aigc3d.github.io/GPLD3D/) （CVPR 2024 Oral）
+  + https://aigc3d.github.io/GPLD3D/ （CVPR 2024 Oral）
 
 # Open Project
-+ Large Scale Neural Rendering: https://aigc3d.github.io/landshop
-+ Video Character Replacement：https://aigc3d.github.io/motionshop
++ Large Scale Neural Rendering:
+  + Project: https://aigc3d.github.io/landshop
++ Video Character Replacement：
+  + Project: https://aigc3d.github.io/motionshop
   + Demo: https://modelscope.cn/studios/Damo_XR_Lab/motionshop/summary
 + 3D Object Generation：
   + Demo: https://modelscope.cn/studios/Damo_XR_Lab/3D_AIGC/summary
