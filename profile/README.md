@@ -2,13 +2,15 @@
 + We are the 3D Motion and Rendering team of Applied Vision Lab, Institute for Intelligent Computing（[通义实验室](https://tongyi.aliyun.com/)）, Alibaba Group, focusing on efficiently generating usable videos from text, image, video, and 3D model.
 
 # Open Source
-+ Video Generation:
++ Video:
+  + Coming soon.
++ 3D Human:
+  + https://aigc3d.github.io/HumanNormal 
++ 3D Motion:
   + Coming soon. 
-+ 3D Motion Generation:
-  + Coming soon. 
-+ 3D Scene Generation:
++ 3D Scene:
   + https://aigc3d.github.io/freditor
-+ 3D Object Generation：
++ 3D Object：
   + https://aigc3d.github.io/VideoMV
   + https://yushuang-wu.github.io/IPoD/ （CVPR 2024 Hightlight）
   + https://aigc3d.github.io/richdreamer （CVPR 2024 Hightlight）
