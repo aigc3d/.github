@@ -27,7 +27,7 @@
   + Demo: https://modelscope.cn/studios/Damo_XR_Lab/3D_AIGC/summary
 
 # Data Set
-+ 3D Object Rendering Dataset：https://aigc3d.github.io/gobjaverse（ECCV 2024）
++ 3D Object Rendering Dataset：https://aigc3d.github.io/gobjaverse （ECCV 2024）
 
 # Talent
 + **Reserch intern** positions are open（Beijing、Hangzhou），research area：3D Avatar、3D Object Generation！
