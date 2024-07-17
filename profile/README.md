@@ -11,6 +11,7 @@
 + 3D Scene:
   + https://aigc3d.github.io/freditor
 + 3D Object：
+  + https://aigc3d.github.io/ConsistenTex/（ECCV 2024） 
   + https://aigc3d.github.io/VideoMV
   + https://yushuang-wu.github.io/IPoD/ （CVPR 2024 Hightlight）
   + https://aigc3d.github.io/richdreamer （CVPR 2024 Hightlight）
@@ -26,7 +27,7 @@
   + Demo: https://modelscope.cn/studios/Damo_XR_Lab/3D_AIGC/summary
 
 # Data Set
-+ 3D Object Rendering Dataset：https://aigc3d.github.io/gobjaverse
++ 3D Object Rendering Dataset：https://aigc3d.github.io/gobjaverse（ECCV 2024）
 
 # Talent
 + **Reserch intern** positions are open（Beijing、Hangzhou），research area：3D Avatar、3D Object Generation！
