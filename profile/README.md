@@ -6,8 +6,6 @@
   + Coming soon.
 + 3D Human:
   + https://aigc3d.github.io/HumanNormal 
-+ 3D Motion:
-  + Coming soon. 
 + 3D Scene:
   + https://aigc3d.github.io/freditor （ECCV 2024）
   + https://fangchuan.github.io/PanoContext-Former/ （CVPR 2024）
