@@ -11,7 +11,7 @@
 + 3D Scene:
   + https://aigc3d.github.io/freditor
 + 3D Object：
-  + https://aigc3d.github.io/ConsistenTex/（ECCV 2024） 
+  + https://aigc3d.github.io/ConsistenTex/ （ECCV 2024） 
   + https://aigc3d.github.io/VideoMV
   + https://yushuang-wu.github.io/IPoD/ （CVPR 2024 Hightlight）
   + https://aigc3d.github.io/richdreamer （CVPR 2024 Hightlight）
