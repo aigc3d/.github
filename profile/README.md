@@ -9,7 +9,8 @@
 + 3D Motion:
   + Coming soon. 
 + 3D Scene:
-  + https://aigc3d.github.io/freditor
+  + https://aigc3d.github.io/freditor （ECCV 2024）
+  + https://fangchuan.github.io/PanoContext-Former/ （CVPR 2024）
 + 3D Object：
   + https://aigc3d.github.io/ConsistenTex/ （ECCV 2024） 
   + https://aigc3d.github.io/VideoMV
