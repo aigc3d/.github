@@ -10,6 +10,7 @@
   + https://aigc3d.github.io/freditor （ECCV 2024）
   + https://fangchuan.github.io/PanoContext-Former/ （CVPR 2024）
 + 3D Object：
+  + https://aigc3d.github.io/Sparse3D/ （ECCV 2024） 
   + https://aigc3d.github.io/ConsistenTex/ （ECCV 2024） 
   + https://aigc3d.github.io/VideoMV
   + https://yushuang-wu.github.io/IPoD/ （CVPR 2024 Hightlight）
