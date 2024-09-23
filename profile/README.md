@@ -4,6 +4,8 @@
 # Open Source
 + Video:
   + Coming soon.
++ Image Perception:
+  + [StableNormal](https://github.com/Stable-X/StableNormal) [SIGGRAPH Asia 2024 (Journal Track)].
 + 3D Avatar:
   + https://aigc3d.github.io/HumanNormal
   + https://modelscope.cn/models/Damo_XR_Lab/cv_human_68-facial-landmark-detection
