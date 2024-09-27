@@ -32,7 +32,7 @@
 
 # Data Set
 + 3D Object Rendering Dataset：https://aigc3d.github.io/gobjaverse
-+ 3D Avatar Rendering Dataset：https://aigc3d.github.io/HumanNormal/#dataset-section
++ 3D Human Rendering Dataset：https://aigc3d.github.io/HumanNormal/#dataset-section
 
 # Talent
 + **Reserch intern** positions are open（Beijing、Hangzhou），research area：3D Avatar、3D Object Generation！
