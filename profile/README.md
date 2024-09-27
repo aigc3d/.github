@@ -4,7 +4,7 @@
 # Open Source
 + Video:
   + Coming soon.
-+ Image Perception:
++ 3D Perception:
   + [StableNormal](https://github.com/Stable-X/StableNormal) [SIGGRAPH Asia 2024 (Journal Track)].
 + 3D Avatar:
   + https://aigc3d.github.io/mogents （NIPS 2024）
