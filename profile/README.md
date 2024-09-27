@@ -5,7 +5,8 @@
 + Video:
   + Coming soon.
 + 3D Perception:
-  + [StableNormal](https://github.com/Stable-X/StableNormal) [SIGGRAPH Asia 2024 (Journal Track)].
+  + https://github.com/Stable-X/StableNormal （SIGGRAPH Asia 2024  Journal Track).
+  + https://jukgei.github.io/project/gic/ （NIPS 2024 Oral）
 + 3D Avatar:
   + https://aigc3d.github.io/mogents （NIPS 2024）
   + https://aigc3d.github.io/HumanNormal
