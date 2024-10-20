@@ -27,6 +27,7 @@
   + Project: https://aigc3d.github.io/landshop
 + Video Character Replacement：
   + Project: https://aigc3d.github.io/motionshop
+  + Upgrade: https://aigc3d.github.io/motionshop-2
   + Demo: https://modelscope.cn/studios/Damo_XR_Lab/motionshop/summary
 + 3D Object Generation：
   + Demo: https://modelscope.cn/studios/Damo_XR_Lab/3D_AIGC/summary
