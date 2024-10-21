@@ -2,8 +2,6 @@
 + We are the 3D Motion and Rendering team of Applied Vision Lab, Institute for Intelligent Computing（[通义实验室](https://tongyi.aliyun.com/)）, Alibaba Group, focusing on efficiently generating usable videos from text, image, video, and 3D model.
 
 # Open Source
-+ Video:
-  + Coming soon.
 + 3D Perception:
   + https://github.com/Stable-X/StableNormal （SIGGRAPH Asia 2024  Journal Track).
   + https://jukgei.github.io/project/gic/ （NIPS 2024 Oral）
