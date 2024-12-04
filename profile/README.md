@@ -3,7 +3,7 @@
 
 # Open Source
 + 3D Perception:
-  + https://github.com/Stable-X/StableNormal （SIGGRAPH Asia 2024  Journal Track).
+  + https://github.com/Stable-X/StableNormal （SIGGRAPH Asia 2024  Journal Track)
   + https://jukgei.github.io/project/gic/ （NIPS 2024 Oral）
 + 3D Avatar:
   + https://aigc3d.github.io/mogents （NIPS 2024）
@@ -32,6 +32,7 @@
   + Demo: https://modelscope.cn/studios/Damo_XR_Lab/3D_AIGC/summary
 
 # Data Set
++ Multi-view Images Dataset：https://luyues.github.io/mvimgnet2/ （SIGGRAPH Asia 2024  Journal Track)
 + 3D Object Rendering Dataset：https://aigc3d.github.io/gobjaverse
 + 3D Human Rendering Dataset：https://aigc3d.github.io/HumanNormal/#dataset-section
 
