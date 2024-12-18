@@ -8,15 +8,16 @@
 + 3D Avatar:
   + https://aigc3d.github.io/mogents （NIPS 2024）
   + https://aigc3d.github.io/HumanNormal
-  + https://lingtengqiu.github.io/2024/AniGS/
+  + https://lingtengqiu.github.io/2024/AniGS/ （2024）
   + https://modelscope.cn/models/Damo_XR_Lab/cv_human_68-facial-landmark-detection
 + 3D Scene:
   + https://aigc3d.github.io/freditor （ECCV 2024）
   + https://fangchuan.github.io/PanoContext-Former/ （CVPR 2024）
 + 3D Object：
+  + https://lingtengqiu.github.io/2024/MCMat/ （2024）
   + https://aigc3d.github.io/Sparse3D/ （ECCV 2024） 
   + https://aigc3d.github.io/ConsistenTex/ （ECCV 2024） 
-  + https://aigc3d.github.io/VideoMV
+  + https://aigc3d.github.io/VideoMV （2024）
   + https://yushuang-wu.github.io/IPoD/ （CVPR 2024 Hightlight）
   + https://aigc3d.github.io/richdreamer （CVPR 2024 Hightlight）
   + https://aigc3d.github.io/GPLD3D/ （CVPR 2024 Oral）
@@ -26,8 +27,9 @@
   + Project: https://aigc3d.github.io/landshop
 + Video Character Replacement：
   + Project: https://aigc3d.github.io/motionshop
-  + Upgrade: https://aigc3d.github.io/motionshop-2
   + Demo: https://modelscope.cn/studios/Damo_XR_Lab/motionshop/summary
+  + Upgrade: https://aigc3d.github.io/motionshop-2
+  + Demo: https://modelscope.cn/studios/Damo_XR_Lab/Motionshop2
 + 3D Object Generation：
   + Demo: https://modelscope.cn/studios/Damo_XR_Lab/3D_AIGC/summary
 
