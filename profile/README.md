@@ -8,7 +8,7 @@
 + 3D Avatar:
   + https://aigc3d.github.io/mogents （NIPS 2024）
   + https://aigc3d.github.io/HumanNormal
-  + https://lingtengqiu.github.io/2024/AniGS/ （2024）
+  + https://lingtengqiu.github.io/2024/AniGS/ （CVPR 2025）
   + https://modelscope.cn/models/Damo_XR_Lab/cv_human_68-facial-landmark-detection
 + 3D Scene:
   + https://aigc3d.github.io/freditor （ECCV 2024）
