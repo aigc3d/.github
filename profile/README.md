@@ -15,6 +15,7 @@
   + https://fangchuan.github.io/PanoContext-Former/ （CVPR 2024）
 + 3D Object：
   + https://lingtengqiu.github.io/2024/MCMat/ （2024）
+  + https://luyues.github.io/mvimgnet2/ （SIGGRAPH Asia 2024  Journal Track)
   + https://aigc3d.github.io/Sparse3D/ （ECCV 2024） 
   + https://aigc3d.github.io/ConsistenTex/ （ECCV 2024） 
   + https://aigc3d.github.io/VideoMV （2024）
