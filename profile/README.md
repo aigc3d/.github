@@ -6,10 +6,11 @@
   + https://github.com/Stable-X/StableNormal （SIGGRAPH Asia 2024  Journal Track)
   + https://jukgei.github.io/project/gic/ （NIPS 2024 Oral）
 + 3D Avatar:
+  + https://github.com/aigc3d/LHM （2025）
   + https://aigc3d.github.io/mogents （NIPS 2024）
-  + https://aigc3d.github.io/HumanNormal
+  + https://aigc3d.github.io/HumanNormal （2024）
   + https://lingtengqiu.github.io/2024/AniGS/ （CVPR 2025）
-  + https://modelscope.cn/models/Damo_XR_Lab/cv_human_68-facial-landmark-detection
+  + https://modelscope.cn/models/Damo_XR_Lab/cv_human_68-facial-landmark-detection （2024）
 + 3D Scene:
   + https://aigc3d.github.io/freditor （ECCV 2024）
   + https://fangchuan.github.io/PanoContext-Former/ （CVPR 2024）
