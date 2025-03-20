@@ -11,17 +11,20 @@
   + https://aigc3d.github.io/HumanNormal （2024）
   + https://lingtengqiu.github.io/2024/AniGS/ （CVPR 2025）
   + https://modelscope.cn/models/Damo_XR_Lab/cv_human_68-facial-landmark-detection （2024）
++ 3D Object：
+  + https://lingtengqiu.github.io/2024/MCMat/ （2024）
+  + https://luyues.github.io/mvimgnet2/ （SIGGRAPH Asia 2024  Journal Track)
+  + https://yushuang-wu.github.io/IPoD/ （CVPR 2024 Hightlight）
+  + https://aigc3d.github.io/richdreamer （CVPR 2024 Hightlight）
+
+# Open Work
 + 3D Scene:
   + https://aigc3d.github.io/freditor （ECCV 2024）
   + https://fangchuan.github.io/PanoContext-Former/ （CVPR 2024）
 + 3D Object：
-  + https://lingtengqiu.github.io/2024/MCMat/ （2024）
-  + https://luyues.github.io/mvimgnet2/ （SIGGRAPH Asia 2024  Journal Track)
   + https://aigc3d.github.io/Sparse3D/ （ECCV 2024） 
   + https://aigc3d.github.io/ConsistenTex/ （ECCV 2024） 
   + https://aigc3d.github.io/VideoMV （2024）
-  + https://yushuang-wu.github.io/IPoD/ （CVPR 2024 Hightlight）
-  + https://aigc3d.github.io/richdreamer （CVPR 2024 Hightlight）
   + https://aigc3d.github.io/GPLD3D/ （CVPR 2024 Oral）
 
 # Open Project
