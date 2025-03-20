@@ -7,9 +7,9 @@
   + https://jukgei.github.io/project/gic/ （NIPS 2024 Oral）
 + 3D Avatar:
   + https://github.com/aigc3d/LHM （2025）
+  + https://lingtengqiu.github.io/2024/AniGS/ （CVPR 2025）
   + https://aigc3d.github.io/mogents （NIPS 2024）
   + https://aigc3d.github.io/HumanNormal （2024）
-  + https://lingtengqiu.github.io/2024/AniGS/ （CVPR 2025）
   + https://modelscope.cn/models/Damo_XR_Lab/cv_human_68-facial-landmark-detection （2024）
 + 3D Object：
   + https://lingtengqiu.github.io/2024/MCMat/ （2024）
