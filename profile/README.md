@@ -2,8 +2,12 @@
 + We are the 3D Motion and Rendering team of Applied Vision Lab, Institute for Intelligent Computing（[通义实验室](https://tongyi.aliyun.com/)）, Alibaba Group, focusing on efficiently generating usable videos from text, image, video, and 3D model.
 
 # Open Source
-+ 3D Avatar:
++ Large Human Model:
   + https://github.com/aigc3d/LHM （2025）
+  + https://github.com/aigc3d/LHM_Track （2025）
++ Large Avatar Model:
+  + coming soon
++ 3D Avatar:
   + https://github.com/aigc3d/AniGS （CVPR 2025）
   + https://github.com/aigc3d/LaMP （ICLR 2025）
   + https://aigc3d.github.io/mogents （NIPS 2024）
