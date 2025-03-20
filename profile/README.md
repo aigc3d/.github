@@ -2,9 +2,6 @@
 + We are the 3D Motion and Rendering team of Applied Vision Lab, Institute for Intelligent Computing（[通义实验室](https://tongyi.aliyun.com/)）, Alibaba Group, focusing on efficiently generating usable videos from text, image, video, and 3D model.
 
 # Open Source
-+ 3D Perception:
-  + https://stable-x.github.io/StableNormal/ （SIGGRAPH Asia 2024  Journal Track)
-  + https://jukgei.github.io/project/gic/ （NIPS 2024 Oral）
 + 3D Avatar:
   + https://github.com/aigc3d/LHM （2025）
   + https://github.com/aigc3d/AniGS （CVPR 2025）
@@ -17,16 +14,19 @@
   + https://aigc3d.github.io/richdreamer （CVPR 2024 Hightlight）
   + https://yushuang-wu.github.io/IPoD/ （CVPR 2024 Hightlight）
   + https://luyues.github.io/mvimgnet2/ （SIGGRAPH Asia 2024  Journal Track)
++ 3D Perception:
+  + https://stable-x.github.io/StableNormal/ （SIGGRAPH Asia 2024  Journal Track)
+  + https://jukgei.github.io/project/gic/ （NIPS 2024 Oral）
 
 # Open Work
-+ 3D Scene:
-  + https://aigc3d.github.io/freditor （ECCV 2024）
-  + https://fangchuan.github.io/PanoContext-Former/ （CVPR 2024）
 + 3D Object：
   + https://aigc3d.github.io/Sparse3D/ （ECCV 2024） 
   + https://aigc3d.github.io/ConsistenTex/ （ECCV 2024） 
   + https://aigc3d.github.io/VideoMV （2024）
   + https://aigc3d.github.io/GPLD3D/ （CVPR 2024 Oral）
++ 3D Scene:
+  + https://aigc3d.github.io/freditor （ECCV 2024）
+  + https://fangchuan.github.io/PanoContext-Former/ （CVPR 2024）
 
 # Open Project
 + Large Scale Neural Rendering:
