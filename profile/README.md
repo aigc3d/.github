@@ -4,7 +4,7 @@
 # Open Source
 + Large Human Model:
   + https://github.com/aigc3d/LHM （2025）
-  + https://github.com/aigc3d/LHM_Track （2025）
+  + https://github.com/aigc3d/LHM_Track （coming soon）
 + Large Avatar Model:
   + coming soon
 + 3D Avatar:
