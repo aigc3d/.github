@@ -3,19 +3,20 @@
 
 # Open Source
 + 3D Perception:
-  + https://github.com/Stable-X/StableNormal （SIGGRAPH Asia 2024  Journal Track)
+  + https://stable-x.github.io/StableNormal/ （SIGGRAPH Asia 2024  Journal Track)
   + https://jukgei.github.io/project/gic/ （NIPS 2024 Oral）
 + 3D Avatar:
   + https://github.com/aigc3d/LHM （2025）
-  + https://lingtengqiu.github.io/2024/AniGS/ （CVPR 2025）
+  + https://github.com/aigc3d/AniGS（CVPR 2025）
+  + https://github.com/aigc3d/LaMP（ICLR 2025）
   + https://aigc3d.github.io/mogents （NIPS 2024）
   + https://aigc3d.github.io/HumanNormal （2024）
   + https://modelscope.cn/models/Damo_XR_Lab/cv_human_68-facial-landmark-detection （2024）
 + 3D Object：
-  + https://lingtengqiu.github.io/2024/MCMat/ （2024）
-  + https://luyues.github.io/mvimgnet2/ （SIGGRAPH Asia 2024  Journal Track)
-  + https://yushuang-wu.github.io/IPoD/ （CVPR 2024 Hightlight）
+  + https://github.com/aigc3d/MCMat （2024）
   + https://aigc3d.github.io/richdreamer （CVPR 2024 Hightlight）
+  + https://yushuang-wu.github.io/IPoD/ （CVPR 2024 Hightlight）
+  + https://luyues.github.io/mvimgnet2/ （SIGGRAPH Asia 2024  Journal Track)
 
 # Open Work
 + 3D Scene:
