@@ -1,6 +1,11 @@
 # Introduction
 + We are the 3D Motion and Rendering team of Applied Vision, Tongyi Lab（[通义实验室](https://tongyi.aliyun.com/)）, Alibaba Group, focusing on efficiently generating usable videos from text, image, video, and 3D model.
 
+# Talent
++ **Reserch intern** positions are open（Beijing、Hangzhou），research area：3D Avatar、3D Object Generation！
+  + https://zhuanlan.zhihu.com/p/685816106
++ Contact：list.dzl@alibaba-inc.com
+  
 # Open Source
 + Large Human Model:
   + https://github.com/aigc3d/LHM （2025）
@@ -47,8 +52,3 @@
 + Multi-view Images Dataset：https://luyues.github.io/mvimgnet2/ （SIGGRAPH Asia 2024  Journal Track)
 + 3D Object Rendering Dataset：https://aigc3d.github.io/gobjaverse
 + 3D Human Rendering Dataset：https://aigc3d.github.io/HumanNormal/#dataset-section
-
-# Talent
-+ **Reserch intern** positions are open（Beijing、Hangzhou），research area：3D Avatar、3D Object Generation！
-  + https://zhuanlan.zhihu.com/p/685816106
-+ Contact：list.dzl@alibaba-inc.com
