@@ -11,7 +11,9 @@
   + https://github.com/aigc3d/LHM （2025）
   + https://github.com/aigc3d/LHM_Track （coming soon）
 + Large Avatar Model:
-  + coming soon
+  + https://github.com/aigc3d/LAM
+  + https://github.com/aigc3d/LAM_Render （coming soon）
+  + https://github.com/aigc3d/LAM_Audio2Expression （coming soon）
 + 3D Avatar:
   + https://github.com/aigc3d/AniGS （CVPR 2025）
   + https://github.com/aigc3d/LaMP （ICLR 2025）
