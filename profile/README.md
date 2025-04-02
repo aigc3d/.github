@@ -2,7 +2,7 @@
 + We are the 3D Motion and Rendering team of Applied Vision, Tongyi Lab（[通义实验室](https://tongyi.aliyun.com/)）, Alibaba Group, focusing on efficiently generating usable videos from text, image, video, and 3D model.
 
 # Talent
-+ **Reserch intern** positions are open（Beijing、Hangzhou），research area：3D Avatar、3D Object Generation！
++ **Research intern** positions are open（Beijing、Hangzhou），research area：3D Avatar、3D Object Generation！
   + https://zhuanlan.zhihu.com/p/685816106
 + Contact：list.dzl@alibaba-inc.com
   
