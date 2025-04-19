@@ -14,7 +14,7 @@
   + https://github.com/aigc3d/LAM （2025）
   + https://github.com/HumanAIGC-Engineering/OpenAvatarChat （2025）
   + https://github.com/aigc3d/LAM_Render （coming soon）
-  + https://github.com/aigc3d/LAM_Audio2Expression （coming soon）
+  + https://github.com/aigc3d/LAM_Audio2Expression （2025）
 + 3D Avatar:
   + https://github.com/aigc3d/AniGS （CVPR 2025）
   + https://aigc3d.github.io/LaMP （ICLR 2025）
