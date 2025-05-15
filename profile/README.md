@@ -13,7 +13,7 @@
 + **Large Avatar Model**:
   + https://github.com/aigc3d/LAM （SIGGRAPH 2025）
   + https://github.com/HumanAIGC-Engineering/OpenAvatarChat （2025）
-  + https://github.com/aigc3d/LAM_Render （coming soon）
+  + https://github.com/aigc3d/LAM_WebRender （2025）
   + https://github.com/aigc3d/LAM_Audio2Expression （2025）
 + 3D Avatar:
   + https://github.com/aigc3d/AniGS （CVPR 2025）
