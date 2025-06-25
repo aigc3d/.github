@@ -8,7 +8,7 @@
   
 # Open Source
 + **Large Human Model**:
-  + https://github.com/aigc3d/LHM （2025）
+  + https://github.com/aigc3d/LHM (ICCV2025)（2025）
   + https://github.com/aigc3d/LHM_Track (2025)
 + **Large Avatar Model**:
   + https://github.com/aigc3d/LAM （SIGGRAPH 2025）
