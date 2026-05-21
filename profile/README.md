@@ -30,7 +30,7 @@
   + https://yushuang-wu.github.io/IPoD/ （CVPR 2024 Hightlight）
   + https://luyues.github.io/mvimgnet2/ （SIGGRAPH Asia 2024  Journal Track)
 + 3D Perception:
-  + https://github.com/aigc3d/ViGen
+  + https://github.com/aigc3d/ViGeo
   + https://github.com/aigc3d/LDCM （ICLR 2026)
   + https://stable-x.github.io/StableNormal/ （SIGGRAPH Asia 2024  Journal Track)
   + https://jukgei.github.io/project/gic/ （NIPS 2024 Oral）
