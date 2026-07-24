@@ -7,11 +7,17 @@
 + Contact：list.dzl@alibaba-inc.com
   
 # Open Source
-+ **Large Human Model**:
++ **3D Perception**:
+  + https://junyuandeng.github.io/Glob3r/ （2026 Under Review)  
+  + https://github.com/aigc3d/ViGeo （2026 Under Review)  
+  + https://github.com/aigc3d/LDCM （ICLR 2026)
+  + https://stable-x.github.io/StableNormal/ （SIGGRAPH Asia 2024  Journal Track)
+  + https://jukgei.github.io/project/gic/ （NIPS 2024 Oral）
++ Large Human Model:
   + https://github.com/aigc3d/LHM (ICCV 2025)
   + https://github.com/aigc3d/LHM-plusplus (2025)
   + https://github.com/aigc3d/LHM_Track (2025)
-+ **Large Avatar Model**:
++ Large Avatar Model:
   + https://github.com/aigc3d/LAM （SIGGRAPH 2025）
   + https://github.com/aigc3d/LAM_WebRender （2025）
   + https://github.com/aigc3d/LAM_Audio2Expression （2025）
@@ -29,12 +35,6 @@
   + https://aigc3d.github.io/richdreamer （CVPR 2024 Hightlight）
   + https://yushuang-wu.github.io/IPoD/ （CVPR 2024 Hightlight）
   + https://luyues.github.io/mvimgnet2/ （SIGGRAPH Asia 2024  Journal Track)
-+ 3D Perception:
-  + https://junyuandeng.github.io/Glob3r/ （2026 Under Review)  
-  + https://github.com/aigc3d/ViGeo （2026 Under Review)  
-  + https://github.com/aigc3d/LDCM （ICLR 2026)
-  + https://stable-x.github.io/StableNormal/ （SIGGRAPH Asia 2024  Journal Track)
-  + https://jukgei.github.io/project/gic/ （NIPS 2024 Oral）
 
 # Open Work
 + 3D Object：
