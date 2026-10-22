@@ -24,8 +24,8 @@
   + https://github.com/aigc3d/LAM_Audio2Expression （2025）
   + https://github.com/HumanAIGC-Engineering/OpenAvatarChat （2025）
 + 3D Avatar:
-  + https://zhenliuzju.github.io/huyingdong/Forge4D/（ECCV 2026）
-  + https://lhyfst.github.io/balancehead/ (ICLR2026)
+  + https://zhenliuzju.github.io/huyingdong/Forge4D/ (ECCV 2026)
+  + https://lhyfst.github.io/balancehead/ (ICLR 2026)
   + https://github.com/aigc3d/HyPlaneHead (NeurIPS 2025)  
   + https://github.com/aigc3d/AniGS （CVPR 2025）
   + https://aigc3d.github.io/LaMP （ICLR 2025）
