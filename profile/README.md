@@ -8,6 +8,7 @@
   
 # Open Source
 + **3D Perception**:
+  + https://github.com/aigc3d/World-in-Context （2026 Under Review)
   + https://junyuandeng.github.io/Glob3r/ （NIPS 2026)  
   + https://github.com/aigc3d/ViGeo （2026 Under Review)  
   + https://github.com/aigc3d/LDCM （ICLR 2026)
