@@ -1,5 +1,5 @@
 # Introduction
-+ We are the 3D Motion and Rendering team of Alibaba Token Hub, Alibaba Group, focusing on efficiently generating usable videos from text, image, video, and 3D model.
++ We are the 3D Motion and Rendering team of Alibaba Token Hub, focusing on efficiently generating usable videos from text, image, video, and 3D model.
 
 # Talent（实习招聘中）
 + **Research intern** positions are open（Beijing、Hangzhou），research area：AI for Basketball/Soccer Tactics！
